@@ -1,0 +1,2 @@
+Resuelvo el conflicto en esta primera línea del archivo_a.txt
+También modifico la segunda línea del archivo_a.txt
